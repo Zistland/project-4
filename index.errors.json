@@ -1,0 +1,89 @@
+[{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 41,
+	"startColumn": 10,
+	"endLineNumber": 41,
+	"endColumn": 143
+},{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 70,
+	"startColumn": 10,
+	"endLineNumber": 70,
+	"endColumn": 204
+},{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 88,
+	"startColumn": 10,
+	"endLineNumber": 88,
+	"endColumn": 103
+},{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 128,
+	"startColumn": 10,
+	"endLineNumber": 128,
+	"endColumn": 80
+},{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 157,
+	"startColumn": 10,
+	"endLineNumber": 157,
+	"endColumn": 81
+},{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 163,
+	"startColumn": 10,
+	"endLineNumber": 163,
+	"endColumn": 158
+},{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 172,
+	"startColumn": 10,
+	"endLineNumber": 172,
+	"endColumn": 172
+},{
+	"resource": "/c:/Users/faram/Desktop/Project 4/index.html",
+	"owner": "w3c_validation_collection",
+	"code": "W3C_validation",
+	"severity": 2,
+	"message": "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+	"source": "info",
+	"startLineNumber": 183,
+	"startColumn": 10,
+	"endLineNumber": 183,
+	"endColumn": 84
+}]
