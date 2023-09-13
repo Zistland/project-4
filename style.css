@@ -78,6 +78,10 @@ button {
     right: 0;
 }
 
+ul li {
+    padding: 3px;
+}
+
 .texture-paper::before {
     background: url("img/mobile/texture-paper.webp");
     background-size: 280px 280px;
@@ -400,7 +404,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #364577 !important;
-  
+
 }
 
 footer a {
