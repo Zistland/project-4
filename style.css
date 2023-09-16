@@ -82,7 +82,7 @@ ul li {
     padding: 3px;
 }
 
-.texture-paper::before {
+.texture-paper {
     background: url("img/mobile/texture-paper.webp");
     background-size: 280px 280px;
 }
